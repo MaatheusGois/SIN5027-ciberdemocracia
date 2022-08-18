@@ -40,3 +40,14 @@ https://youtu.be/-gHojueeIrc\
 [https://edisciplinas.usp.br/pluginfile.php/7224404/course/section/6376259/2012.SBSC.Tavares.2012.06.pdf](https://edisciplinas.usp.br/pluginfile.php/7224404/course/section/6376259/2012.SBSC.Tavares.2012.06.pdf)\
 \
 Ferramenta Visu: [https://rlage.github.io/visu/](https://rlage.github.io/visu/)
+
+## Design de pesquisa
+
+* Livro: [Araujo e Chueri, Pesquisa e Inovação: Visões e Interseções.  ](https://edisciplinas.usp.br/pluginfile.php/7224404/course/section/6376547/Livro\_Pesquisa-e-Inova%C3%A7%C3%A3o\_Vis%C3%B5es-e-interse%C3%A7%C3%B5es.pdf)
+* [Escola de Inverno 2020 - PPGC/UFF](http://ev-ppgc.ic.uff.br/2020-2/)&#x20;
+* Todos os vídeos do curso de Metodologia Científica estão [aqui](https://medium.com/@adolfont2/v%C3%ADdeos-da-escola-de-inverno-do-ppgc-uff-programa-de-p%C3%B3s-gradua%C3%A7%C3%A3o-em-computa%C3%A7%C3%A3o-da-uff-cebba282e3d6).
+* Alguns videos da escola que podem interessar:
+
+
+
+{% embed url="https://www.youtube.com/playlist?list=PLclUQno6PMpQO0-XrDwWsPzRzEvjwp1__" %}
