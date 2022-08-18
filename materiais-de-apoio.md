@@ -51,3 +51,35 @@ Ferramenta Visu: [https://rlage.github.io/visu/](https://rlage.github.io/visu/)
 
 
 {% embed url="https://www.youtube.com/playlist?list=PLclUQno6PMpQO0-XrDwWsPzRzEvjwp1__" %}
+
+## Alvos em potencial para publicações
+
+
+
+Simpósio Brasileiro de Sistemas de Informação (SBSI) - [https://www.facebook.com/SbsiBrasil/](https://www.facebook.com/SbsiBrasil/)
+
+Workshop de Computação Aplicada ao Governo Eletrônico (WCGE) - [https://csbc.sbc.org.br/2022/wcge/](https://csbc.sbc.org.br/2022/wcge/)
+
+Information Systems in Latin America (ISLA) - [https://sites.google.com/view/isla2022](https://sites.google.com/view/isla2022)
+
+IFIP Egov Conference - [https://dgsociety.org/egov-2021/](https://dgsociety.org/egov-2021/)
+
+Revista Mackenzie de Engenharia e Computação - [http://editorarevistas.mackenzie.br/index.php/rmec/issue/view/718](http://editorarevistas.mackenzie.br/index.php/rmec/issue/view/718)
+
+Brazilian Journal of LA Studies - [https://www.revistas.usp.br/prolam](https://www.revistas.usp.br/prolam)
+
+Gestão e Políticas Públicas USP - [https://www.revistas.usp.br/rgpp](https://www.revistas.usp.br/rgpp)
+
+Revista de Estudos Culturais USP - [https://www.revistas.usp.br/revistaec/about/submissions](https://www.revistas.usp.br/revistaec/about/submissions)
+
+Revista da CGU - https://revista.cgu.gov.br/index.php\
+
+
+(entre outras)
+
+
+
+
+
+
+
