@@ -8,67 +8,60 @@ Leia a notícia em sua totalidade.
 
 Reflita a partir da notícia, nos seguintes pontos:
 
-1. Porque a notícia te chamou a atenção?
-2. Qual aspecto da ciberdemocracia é abordado na notícia?
-3. Qual a questão, situação, problema é apresentado?
-4. Qual a solução discutida ou desenvolvida?
-5. Há resultados \(positivos ou negativos\)?
-6. Qual a sua crítica em relação ao contexto problema, solução e resultados?
-7. Haveria oportunidades para o desenvolvimento de pesquisas, desenvolvimento tecnológico e/ou inovação neste contexto?
-8. Como?
+1.
+   1. Porque o fato/notícia te chamou a atenção?
+   2. Qual a questão, situação, problema é apresentado?
+   3. Há uma solução discutida?
+   4. Há impactos (positivos ou negativos)?
+   5. Haveria oportunidades para o desenvolvimento de pesquisas, desenvolvimento tecnológico e/ou inovação neste contexto? Como?
 
-## Notícia: [\[The Intercept Brasil\] Levantamento revela que 90,5% dos presos por monitoramento facial no Brasil são negros](https://theintercept.com/2019/11/21/presos-monitoramento-facial-brasil-negros/)
+## Notícia: [\[G1\] A democracia que usa reconhecimento facial para registrar os rostos de seus cidadãos](https://g1.globo.com/tecnologia/noticia/2022/08/08/a-democracia-que-usa-reconhecimento-facial-para-registrar-os-rostos-de-seus-cidadaos.ghtml)
 
-### **1. Porque a notícia te chamou a atenção?**
+### **1.** Porque o fato/notícia te chamou a atenção?
 
 Como mestranda em Inteligência Artificial e engajada nas pautas raciais dentro desse tema, essa notícia me chamou muito a atenção e sempre costumo levá-la como exemplo nas minhas palestras sobre Inteligência Artificial e como ela propaga vieses discriminatórios, de vigilância e encarceramento. Podemos ver a tecnologia como uma nova ferramenta para o sistema racista em que o Brasil vive e precisamos entender como isso realmente acontece.
 
-### 2. Qual aspecto da ciberdemocracia é abordado na notícia**?**
+Como cidadão acredito na liberdade de expressão de cada individuo, pot isso essa notícia me chaou muito a atenção pois ele demonstra posíveis estados de controle, vigilância e viola os espaços privados dos cidadões. Podemos ver que a tecnologia de reconhecimento facial pode ser uma ferramenta para controle absoluto do estado e precisamos nos informar para poder nos defender&#x20;
 
-Sistemas de Informação de Governo Abertos e Colaborativos
+### 2. Qual a questão, situação, problema é apresentado?
 
-### 3. Qual a questão, situação, problema é apresentado?
+Se uma pessoa no Estado da Austrália Ocidental contrair covid-19, ela deve permanecer em quarentena domiciliar pelos próximos sete dias assim como seus contatos próximos. A polícia checa seu paradeiro mandando mensagens de texto periódicas e exige que uma selfie seja enviada em 15 minutos . Assim, a tecnologia de reconhecimento facial e o rastreamento por GPS são usados para determinar se a pessoa que tirou a selfie está de fato em casa.&#x20;
 
-A Rede de Observatórios da Segurança realizou um levantamento que sobre os casos de prisões com o uso de reconhecimento facial e descobriu que, dos casos em que havia informações, 90,5% das pessoas presas eram negras.
+E esse é um dos primeiros passos, segundo a matéria o país está se preparando para usar o reconhecimento facial para permitir o acesso a serviços governamentais. E entre os órgãos de segurança pública, há definitivamente um desejo de ter acesso a essas ferramentas.
 
-### 4. Qual a solução discutida ou desenvolvida?
+### 3. Há uma solução discutida?
 
-Uma das principais preocupações do texto é que essas tecnologias ainda apresentam diversos erros e vieses devido às bases de dados utilizadas para treinamento desses algoritmos.
+Uma das principais preocupações do texto é que não há uma lei específica, só existem algumas proteções fragmentadas que não são completamente eficazes e não são abrangentes.
 
-O problema pior é que os erros dessa tecnologia podem representar constrangimentos e violações dos direitos das pessoas.
+Segundo ativistas, assim como a energia nuclear e as armas biológicas, o reconhecimento facial representa uma ameaça à sociedade humana e às nossas liberdades básicas que supera em muito qualquer benefício em potencial.
 
-Diversos países e estados proíbem o uso dessa tecnologia já que não existe protocolo ou legislação a serem aplicados ao uso da tecnologia de reconhecimento facial.
+Assim, o texto explica que a melhor forma de lidar com esses casos é com leis proteções de privacidade adequadas.
 
-### 5. Há resultados \(positivos ou negativos\)?
+### 4. Há impactos (positivos ou negativos)?
 
-Não, até o momento não existem projetos no Brasil para regulamentação dessa tecnologia. Pelo contrário, o que existe em relação isso que o autor nos apresenta é: a criação do [Banco Nacional Multi biométrico e de impressões Digitais](https://www.justica.gov.br/news/collective-nitf-content-1549284631.06/projeto-de-lei-anticrime.pdf), proposto pelo ex-ministro da Justiça Sérgio Moro que, na verdade representa um retrocesso em relação à transparência, _accountability_ e proteção de dados pessoais da população brasileira.
+O caso mais recente do uso dessa tecnologia na Australia não foi dos melhores. Em outubro, foi descoberto que o grupo de lojas de conveniência 7-Eleven violou a privacidade de seus consumidores ao coletar a identificação facial de 1,6 milhão de clientes australianos quando os mesmos completaram pesquisas de satisfação.
 
-### 6. Qual a sua crítica em relação ao contexto problema, solução e resultados?
+As identificações faciais foram obtidas supostamente para obter perfis demográficos do público e impedir que os funcionários manipulassem as pesquisas para aumentar suas avaliações. A empresa não foi multada.
 
-Esse dado demonstra um problema muito conhecido nos Estados Unidos: automatização do encarceramento da população negra.
+Recentemente eu estava pegando um Uber e no acento de traz tinha uma tv da empresa [Zanzar](https://zanzar.com.br), onde passava algumas matérias e assuntos no geral, qual foi a minha surpresa ao notar que na tela do dispositivo havia uma câmera, no momento fiquei sem palavras, só de imaginar que poderia ter um algoritmo sabendo a minha localização, lendo as minhas expressões faciais e determinado o que passar para mim em seguida de acordo com as minha face, e mais o que lá eles poderiam estar fazendo.
 
-Um caso recente \(junho/2020\) nos estados unidos foi de um homem negro que foi [preso injustamente devido a um algoritmo](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html%20).
+O maior problema para mim é que as governanças usem os casos de exceção como na austrália que usou o Covid 19 para justificar o uso de ferramentas que nos podem levar a um estado autocrático, onde nenhuma posição contra o governo possa ser tomada sem represálias do mesmo, algo que vemos acontecer nesse exato momento na China onde o sistema de "crédito social" leva os indivíduos e organizações a serem rastreados pelo governo para determinar sua "confiabilidade".
 
-Além disso, esse ano, a IBM, Amazon e Microsoft interromperam a Pesquisa e Desenvolvimento de tecnologias de Reconhecimento Facial.
+### 8. Haveria oportunidades para o desenvolvimento de pesquisas, desenvolvimento tecnológico e/ou inovação neste contexto? Como?
 
-### 7. Haveria oportunidades para o desenvolvimento de pesquisas, desenvolvimento tecnológico e/ou inovação neste contexto? Como?
+Acredito que sim, hoje temos muitos trabalhos academicos que buscam visualizar e buscar respostas à esses novos problemas acarretados pela assencão tecnológica, dentre eles podemos destacar:
 
-Acredito que sim. O pesquisador Pablo Nunes realiza trabalho nesse sentido através da [Rede de Observatórios da Segurança](http://observatorioseguranca.com.br/).
-
-Assim como outras pesquisados do exterior nesse assunto:
-
-* [Actionable Auditing: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products](https://www.media.mit.edu/publications/actionable-auditing-investigating-the-impact-of-publicly-naming-biased-performance-results-of-commercial-ai-products/)
-* [MIT apologizes, permanently pulls offline huge dataset that taught AI systems to use racist, misogynistic slurs](https://www.theregister.com/2020/07/01/mit_dataset_removed/) \| [https://arxiv.org/pdf/2006.16923.pdf](https://arxiv.org/pdf/2006.16923.pdf)
+* [The Future of Facial Recognition Is Not Fully Known: Developing Privacy and Security Regulatory Mechanisms for Facial Recognition in the Retail Sector](https://heinonline.org/HOL/LandingPage?handle=hein.journals/frdipm29\&div=18\&id=\&page=)
+* [Facial Recognition Technology, Video Surveillance, and Privacy](https://heinonline.org/HOL/LandingPage?handle=hein.journals/scid9\&div=7\&id=\&page=)
 
 As pesquisas tem se direcionado em alguns pontos, como:
 
-* identificação de vieses discriminatórios em datasets de imagens públicos
+* identificação de sistemas de reconhecimento facial
 * legislação de normas éticas em IA
 * etc.
 
 ## **Leituras sugeridas**
 
-* ARAUJO, R. M.; CAPPELLI, C. ; DIIRR, B. ; ENGIEL, P. ; TAVARES, R. L. . [Democracia Eletrônica. In: Mariano Pimentel; Hugo Fuks. \(Org.\). Sistemas Colaborativos](https://sistemascolaborativos.uniriotec.br/). 1ed.Rio de Janeiro: Campus/SBC, 2011, v. , p. 110-121.
-* ARAUJO, R. M.. Information Systems and the Open World Challenges. In: Clodis Boscarioli; Renata Araujo, Rita Suzana Maciel. \(Org.\). [I GranDSI-BR ? Grand Research Challenges in Information Systems in Brazil 2016-2026](https://sol.sbc.org.br/livros/index.php/sbc/catalog/book/28). 1ed.Porto Alegre: Sociedade Brasileira de Computação, 2017, v. 1, p. 42-51.
-* ARAUJO, R.M. [Sistemas de Informação para Ciberdemocracia](https://edisciplinas.usp.br/pluginfile.php/5488543/course/section/6002971/ARAUJO_SistemasdeInforma%C3%A7%C3%A3oCiberdemocracia.pdf). \(em publicação pela FGV\).
-
+* ARAUJO, R. M.; CAPPELLI, C. ; DIIRR, B. ; ENGIEL, P. ; TAVARES, R. L. . [Democracia Eletrônica. In: Mariano Pimentel; Hugo Fuks. (Org.). Sistemas Colaborativos](https://sistemascolaborativos.uniriotec.br/). 1ed.Rio de Janeiro: Campus/SBC, 2011, v. , p. 110-121.
+* ARAUJO, R. M.. Information Systems and the Open World Challenges. In: Clodis Boscarioli; Renata Araujo, Rita Suzana Maciel. (Org.). [I GranDSI-BR ? Grand Research Challenges in Information Systems in Brazil 2016-2026](https://sol.sbc.org.br/livros/index.php/sbc/catalog/book/28). 1ed.Porto Alegre: Sociedade Brasileira de Computação, 2017, v. 1, p. 42-51.
+* ARAUJO, R.M. [Sistemas de Informação para Ciberdemocracia](https://edisciplinas.usp.br/pluginfile.php/5488543/course/section/6002971/ARAUJO\_SistemasdeInforma%C3%A7%C3%A3oCiberdemocracia.pdf). (em publicação pela FGV).
