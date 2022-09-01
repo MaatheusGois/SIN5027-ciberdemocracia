@@ -18,7 +18,7 @@ Nomeie o seu projeto como desejar e defina os seguintes itens:
 
 **Autor:** Matheus Gois
 
-**Tema:** Ferramenta para analise de discussões políticas
+**Tema:** Ferramenta para analise de discussões políticas no Brasil
 
 **Contexto:**
 
