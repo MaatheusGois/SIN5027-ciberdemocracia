@@ -20,3 +20,4 @@
   * [Artigo Final](projeto-decolonizacao-da-inteligencia-artificial/artigo-final.md)
   * [Feedback das professoras](projeto-decolonizacao-da-inteligencia-artificial/feedback-das-professoras.md)
   * [Apresentação 1](projeto-decolonizacao-da-inteligencia-artificial/apresentacao-1.md)
+* [Ferramenta para analise de discussões políticas no Brasil em Dispositivos móveis](ferramenta-para-analise-de-discussoes-politicas-no-brasil-em-dispositivos-moveis.md)
