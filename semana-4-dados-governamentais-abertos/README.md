@@ -1,29 +1,46 @@
-# Semana 4 - Dados Governamentais Abertos
+# Semana 4 - Governo Digital
 
-### **Objetivos**
+**Objetivos:**\
+Compreender as relações da disciplina com os objetivos das pesquisas na área de Sistemas de Informação, sobretudo no Brasil.\
+\
+**Temas:** \
 
-* Definir o que são dados governamentais abertos e diferenciá-los em relação aos dados abertos em geral
-* Apresentar a trajetória do movimento
-* Relacionar com os eixos de um governo aberto
 
-### **Leitura**
+* Sistemas de Informação
+* Pesquisa em Sistemas de Informação no Brasil
+* Pesquisa em Ciberdemocracia no contexto da área de Sistemas de Informação
 
-* [State of Open Data](https://stateofopendata.od4d.net/) - livro com capítulos temáticos ou regionais com reflexões de 10 anos da comunidade de prática de dados governamentais abertos.
+\
 
-### **Iniciativas para padronização da publicação de dados abertos**
 
-* The International [Open Data Charter](https://opendatacharter.net/) - declaração dos dados abertos, adotada por diversos governos no mundo
-* [Open Data Barometer -](https://opendatabarometer.org/?_year=2017&indicator=ODB) uma medida global de como os governos estão publicando e usando dados abertos para responsabilidade, inovação e impacto social.
-* [Open Fiscal Data Package](http://www.fiscaltransparency.net/ofdp/), da [Global Initiative for Fiscal Transparency \(GIFT\)](http://www.fiscaltransparency.net/) - padrão de dados abertos fiscais
-* [Open Contracting Partnership \(OCP\)](https://www.open-contracting.org/) e manual de [abertura e padronização de dados](https://www.open-contracting.org/data-standard) de compras públicas
-* [Extractive Industries Transparency Initiative - dados das indústrias extrativas \(mineral, petróleo e gás\)](https://eiti.org/)
-* [W3C Data on the Web Best Practices](https://www.w3.org/TR/dwbp/) - boas práticas para publicação de dados abertos em geral
+**Material:**
 
-### **Exemplo de análise de publicação de dados orçamentários em relação aos 8 princípios dos dados governamentais abertos**
+* [Slides ](https://edisciplinas.usp.br/pluginfile.php/7224404/course/section/6376262/SIeCiberdemocracia.pdf)sobre pesquisa em SI
+* [Masterclass SBSI 2022](https://edisciplinas.usp.br/pluginfile.php/7224404/course/section/6376262/Masterclass%20SBSI%202022%20-%20Vamos%20Ampliar%20nossa%20vis%C3%A3o%20sobre%20SI.pdf)
 
-* da Silva Craveiro, Gisele, Marcelo Tavares de Santana, and João Porto de Albuquerque. "[Assessing Open Government Budgetary Data in Brazil.](https://sites.icmc.usp.br/jporto/papers/icds_2013_1_40_10183.pdf)"
+\
+**Programação:**\
 
-### **Análise do ecosistema de reuso de dados orçamentários**
 
-* da Silva Craveiro, Gisele, and Claudio Albano. "[Open data intermediaries: coproduction in budget transparency.](https://www.emerald.com/insight/content/doi/10.1108/TG-12-2015-0057/full/html?casa_token=pMWJcV3vDOcAAAAA:LNoe1lgYqQskQpOwBCg5o2OaU7c2YzZwlv_QsNmhtZnQFP29CUcpL1LUz8kPUTAo64aNEr81QVLPihN6ZgpKFUVgWAa999vPSClSp_BbdkPTcru5LIs)" Transforming Government: People, Process and Policy \(2017\).
+* Discussão de propostas de projetos
+* Discussão de atividades\
 
+* Apresentação do panorama da pesquisa em SI e suas relações com a ciberdemocracia
+* Apresentações dos pontos principais da Masterclass no SBSI 2022 - Vamos ampliar nossa visão de SI?
+* Apresentação de atividades da semana. \
+
+
+\
+**Leituras:**\
+
+
+* Bertalanffy, Ludwig Von (1975). Teoria Geral dos Sistemas 2 ed. Petrópolis: Vozes.&#x20;
+* ARAUJO, R. M.. Information Systems and the Open World Challenges. In: Clodis Boscarioli; Renata Araujo, Rita Suzana Maciel. (Org.).[ I GranDSI-BR ? Grand Research Challenges in Information Systems in Brazil 2016-2026](https://sol.sbc.org.br/livros/index.php/sbc/catalog/book/28). 1ed.Porto Alegre: Sociedade Brasileira de Computação, 2017, v. 1, p. 42-51.
+* ARAUJO, R.M. [Sistemas de Informação para Ciberdemocracia](https://editora.fgv.br/produto/humanidades-digitais-e-o-mundo-lusofono-3625). Em: PIMENTA, R., ALVES, D. (orgs) Humanidades Digitais e o Mundo Lusófono. Editora FGV. 2021.
+* Araujo, Renata M.; MAGALHÃES, A. . [Ecossistemas Digitais para o Apoio a Sistemas de Governo Abertos e Colaborativos](https://doi.org/10.5753/sbsi.2015.5893). In: Simpósio Brasileiro de Sistemas de Informação, 2015, Goiânia. XI Simpósio Brasileiro de Sistemas de Informação. Porto Alegre: Sociedade Brasileira de Computação, 2015. v. 1. p. ---.\
+
+* ARAUJO, R. M.; FORNAZIN, M. ; PIMENTEL, M. . [Uma análise sobre a produção de conhecimento científico nas pesquisas publicadas nos primeiros 10 anos da iSys](https://doi.org/10.5753/isys.2017.351) (2008-2017). iSys - Revista Brasileira de Sistemas de Informação, v. 1, p. 45-65, 2017.
+* CONNOLLY, R. [Why Computing Belongs Within the Social Sciences](https://cacm.acm.org/magazines/2020/8/246368-why-computing-belongs-within-the-social-sciences/fulltext). Communications of the ACM, August 2020, Vol. 63 No. 8, Pages 54-59
+
+\
+\

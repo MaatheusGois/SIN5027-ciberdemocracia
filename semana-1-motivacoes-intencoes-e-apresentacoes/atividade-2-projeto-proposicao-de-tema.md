@@ -18,9 +18,90 @@ Nomeie o seu projeto como desejar e defina os seguintes itens:
 
 **Autor:** Matheus Gois
 
-**Tema:** Ferramenta para analise de discussões políticas
+**Tema:** Ferramenta para analise de discussões políticas no Brasil
 
 **Contexto:**
+
+As redes sociais contam com milhões de usuários e se expandem cada a cada dia. Por essas razões, essas novas mídias sociais estão sendo vistas como meios com potencial para promover participação e engajamento em discussões políticas. Uma discussão é considerada política quando os participantes possuem objetivos e interesses conflitantes e as ações e decisões tomadas resultam da negociação entre os envolvidos durante a discussão.&#x20;
+
+Identificar posicionamentos é uma tarefa difícil, pois requer analisar toda a discussão e relacionar as várias mensagens para tentar inferir essas informações que não ficam explicitadas na superfície textual. \
+\
+Quanto mais mensagens trocadas, mais complexa se torna a análise, mais difícil é compreender a conversação e se posicionar adequadamente na discussão. \
+\
+Como possíveis abordagens deste trabalho se encontram os pontos levantados nas pesquisas anteriores como: novas técnicas de visualização para representar as informações usando grande quantidade de dados, tal como a criação de ferramentas para extrair as informações diretamente de sistemas como os grupos do Facebook, Twiter e Instagram.&#x20;
+
+
+
+Quanto às visualizações obtidas pelo Visu, é necessário realizar ajustes quanto à capacidade de exibição gráfica para um volume maior de dados. O foco da ferramenta foi um conjunto pequeno de argumentos, então os gráficos exibidos não são escaláveis.\
+\
+\
+**Referências:**&#x20;
+
+Tavares, R. L, Pimentel, M., Araujo, R. M. (2012) “Visualização de Informações em Discussões Políticas". In: Brazilian Symposium on Collaborative Systems. São Paulo. Sociedade Brasileira de Computação. pp. ---. [http://sws2012.ime.usp.br/sbsc/SBSC2012/data/4890a075.pdf](http://sws2012.ime.usp.br/sbsc/SBSC2012/data/4890a075.pdf)
+
+SOUSA, João Pedro da Silva; NASCIMENTO, Rodrigo Costa Uchoa do; ARAUJO, Renata Mendes de; COELHO, Orlando Bisacchi. Não se perca no debate! Mineração de Argumentação em Redes Sociais _In_: BRAZILIAN WORKSHOP ON SOCIAL NETWORK ANALYSIS AND MINING (BRASNAM), 10. , 2021, Evento Online. Anais \[...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 139-150. ISSN 2595-6094. DOI: [https://doi.org/10.5753/brasnam.2021.16132](https://doi.org/10.5753/brasnam.2021.16132)
+
+
+
+## Perguntas
+
+* Qual será o meu artefato de pesquisa?
+* Quais os artefatos já produzidos? Eles estão acessíveis?
+* É dado um modelo de _Intenção de pesquisa_ pela EACH, ou a senhora tem um exemplo_?_
+
+__
+
+_//_ \
+__1 - _IA e mineração de argumentos_&#x20;
+
+* Nenhum aluno no momento
+
+2 - Quanto às visualizações obtidas pelo Visu, é necessário realizar ajustes quanto à capacidade de exibição gráfica para um volume maior de dados. O foco da ferramenta foi um conjunto pequeno de argumentos, então os gráficos exibidos não são escaláveis.
+
+* &#x20;(Manuela - Graduação)
+
+3 - Que outros tipos de visualização poderíamos ter?
+
+* Acontecimentos das eleições (qual o fluxo de falas entre polos opostos das discursoes, já colotou dados e fez algumas ferramentas).
+
+4 - Como pensar visualizações em um celular?
+
+*   Ter um portal que qqc pessoa possa ter ferramentas
+
+    * Extratora de dados do Twiter
+    * Ferrammenta para mineração
+    * Ferramenta para visualizar os dados
+
+
+
+Buscar visualização de dados para mobile (Quais as pesquisas que levetam esses problemas)
+
+Como visualizar dados de debates na rede em celulares? (Como e pq está es)\
+\
+[https://www.scopus.com](https://www.scopus.com)
+
+Começar de uma base de conhecimento (estado da arte)
+
+
+
+O que existe hoje na literatura cientifica, sobre: Visualização de dados para mobile.&#x20;
+
+* (Literacia digital) \[Quais os cidadoes que terão acesso]
+* Como simplificar para o cidadão brasileiro
+
+
+
+_quais as ferramentas que já fazem as visualizações de dados de redes sociais (_gephi_)?_ \
+__\
+__
+
+__
+
+
+
+
+
+## **2020**
 
 Ao mesmo tempo em que os algoritmos de Inteligência Artificial trazem possibilidades magníficas de otimização do trabalho e outras transformações positivas, também trazem riscos e desafios que precisam ser conhecidos e considerados antes de sua adoção.
 
@@ -32,6 +113,7 @@ Precisamos ampliar o nosso conhecimento e interesse sobre o funcionamento dessas
 
 **Questão de pesquisa:**
 
+* Quanto às visualizações obtidas pelo Visu, é necessário realizar ajustes quanto à capacidade de exibição gráfica para um volume maior de dados. O foco da ferramenta foi um conjunto pequeno de argumentos, então os gráficos exibidos não são escaláveis.
 * Como incentivar o debate sobre construção de tecnologias e IA de forma decolonial?
 * Como fazer com que pesquisadores da área reflitam sobre a construção dessas tecnologias considerando a tecnologia como meio e não como fim?
 
